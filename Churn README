@@ -1,0 +1,28 @@
+# Customer Churn Analysis (Python)
+
+## 📌 Project Overview
+This project focuses on analyzing customer churn data using Python. The dataset was cleaned and explored to identify patterns and factors associated with customer churn. Data visualization and machine learning techniques were used to gain insights and build a prediction model.
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
+
+## 📊 Features
+- Data Cleaning and Preprocessing
+- Missing Values and Duplicate Check
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Customer Churn Pattern Analysis
+- Random Forest Prediction
+- Model Performance Evaluation
+
+## 📈 Outcome
+The project provides insights into customer churn patterns and uses a Random Forest model to predict customer churn and evaluate model performance.
+
+## 🔗 Google Colab
+[Open Project in Google Colab](https://colab.research.google.com/drive/1sMNdE6f-oGCx4-vL_bhhcd6xKbb2gcZY?usp=sharing)
