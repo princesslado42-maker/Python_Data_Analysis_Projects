@@ -1,0 +1,24 @@
+# Flight Booking Data Analysis (Python)
+
+## 📌 Project Overview
+This project focuses on analyzing flight booking data using Python. The dataset was cleaned, explored, and visualized to identify booking patterns, trends, and factors affecting flight bookings.
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook / Google Colab
+
+## 📊 Features
+- Data Cleaning and Preprocessing
+- Missing Values and Duplicate Check
+- Exploratory Data Analysis (EDA)
+- Flight Booking Trend Analysis
+- Data Visualization
+- Identification of Booking Patterns
+- Analysis of Factors Affecting Flight Bookings
+
+## 📈 Outcome
+The project provides meaningful insights into flight booking patterns and trends through data analysis and visualization, helping better understand customer booking behavior.
