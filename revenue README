@@ -1,0 +1,44 @@
+# Restaurant Revenue Prediction using Python
+
+## Project Overview
+This project focuses on predicting restaurant revenue using Machine Learning based on various restaurant features.
+
+## Dataset
+The dataset contains restaurant information such as:
+- Restaurant ID
+- Restaurant Name
+- City
+- Franchise
+- Category
+- Number of Items
+- Orders Placed
+- Revenue
+
+## Objectives
+- Analyze restaurant data
+- Preprocess and clean the dataset
+- Encode categorical features
+- Build a Machine Learning model
+- Predict restaurant revenue
+- Evaluate model performance
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook / Google Colab
+
+## Machine Learning Model
+Linear Regression was used to predict restaurant revenue.
+
+## Model Evaluation
+The model was evaluated using:
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- R² Score
+
+## Conclusion
+The project demonstrates how Machine Learning can be used to predict restaurant revenue from business-related features. It provided practical experience in data preprocessing, exploratory data analysis, feature encoding, model building, prediction, and evaluation.
