@@ -1,0 +1,89 @@
+# Walmart Data Analysis & Sales Forecasting (Python)
+
+## 📌 Project Overview
+
+This project focuses on analyzing Walmart weekly sales data using Python. The dataset was cleaned, explored, and analyzed to understand sales trends and the factors affecting weekly sales across different stores.
+
+The project also includes outlier analysis and ARIMA-based forecasting to predict future weekly sales for individual stores.
+
+## 📊 Dataset
+
+- Rows: 6,435
+- Columns: 8
+
+### Dataset Columns
+- Store
+- Date
+- Weekly_Sales
+- Holiday_Flag
+- Temperature
+- Fuel_Price
+- CPI
+- Unemployment
+
+## 🛠 Tools & Libraries Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+- Statsmodels
+- Jupyter Notebook / Google Colab
+
+## 🔍 Data Analysis
+
+The project includes:
+
+- Data loading and preprocessing
+- Missing value analysis
+- Duplicate value analysis
+- Date conversion and feature extraction
+- Statistical analysis
+- Weekly sales distribution analysis
+- Outlier detection using IQR
+- Correlation analysis
+- Data visualization
+
+## 📈 Business Questions Analyzed
+
+The project analyzes:
+
+- Relationship between weekly sales and unemployment
+- Seasonal trends in weekly sales
+- Effect of temperature on weekly sales
+- Relationship between CPI and weekly sales
+- Top-performing stores based on historical sales
+- Worst-performing store based on historical sales
+- Difference between the highest and lowest store sales
+
+## 📅 Time Series & Forecasting
+
+ARIMA (AutoRegressive Integrated Moving Average) was used to forecast the next 12 weeks of sales for individual Walmart stores.
+
+The forecasting analysis helps understand potential future sales trends based on historical weekly sales data.
+
+## 📊 Key Analysis
+
+- 6,435 records were analyzed.
+- No missing values were found.
+- No duplicate records were found.
+- Outlier analysis identified 48 observations.
+- Store-wise sales performance was analyzed.
+- Monthly and yearly sales trends were visualized.
+- ARIMA forecasting was performed for individual stores.
+
+## 📁 Project Files
+
+- `Walmart DataSet.csv` – Dataset used for analysis
+- `Walmart_Project.ipynb` – Python/Jupyter Notebook containing the complete analysis
+- `README.md` – Project documentation
+
+## 📈 Outcome
+
+This project demonstrates the use of Python for data cleaning, exploratory data analysis, visualization, statistical analysis, outlier detection, and time-series forecasting.
+
+The analysis provides insights into Walmart store sales performance, sales trends, and future weekly sales forecasts.
+
+COLAB LINK https://colab.research.google.com/drive/1ngT6gGh3nrzPqciErCuGtUinAvAcLxkK?usp=sharing
